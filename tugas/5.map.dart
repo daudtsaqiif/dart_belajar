@@ -10,7 +10,7 @@ void main() {
   Map sepatu = {
     'item': 'sepatu',
     'merek': 'Bandung Cibaduyut',
-    'harga': 300.000
+    'harga': 300000
   };
 
   Map kaos = {'item': 'kaos', 'merek': 'Arei Gearoutdoor', 'harga': 150000};
