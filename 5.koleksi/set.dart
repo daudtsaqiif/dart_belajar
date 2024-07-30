@@ -1,0 +1,1 @@
+//set data koleksi yang hanya menyimpan data unik saja
