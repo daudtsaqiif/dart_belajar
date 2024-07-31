@@ -43,6 +43,10 @@ void main() {
   namaSiswa.remove('Joko Pedia');
   print(namaSiswa);
 
+  //menghapus elemen dari list berdasarkan kondisi
+  namaSiswa.removeWhere((element) => element.contains('Budi'));
+  print(namaSiswa);
+
   print('====================');
   print(namaSiswa.length);
 
